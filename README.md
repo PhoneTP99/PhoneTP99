@@ -100,10 +100,8 @@ GitHub: https://github.com/PhoneTP99
 
 # 🎮 Interests
 
-- Strategy Games (COC)
-- Formula 1
-- Esports
-- Music
+- Strategy Games
+- Code
 - Chess
 
 ⭐ Always learning. Always improving.
